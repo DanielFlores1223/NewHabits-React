@@ -1,0 +1,14 @@
+.logoApp {
+    display: flex;
+    justify-content: center;
+}
+
+.logoApp__text {
+    font-family: var(--font-title);
+    font-size: 40px;
+    color: #A8B545;
+}
+
+.logoApp__firstLetter {
+    color: var(--green-dark);
+}
